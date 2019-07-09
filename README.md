@@ -44,16 +44,14 @@ To get more help on the Angular CLI use `ng help`
 
 ## contact information
 
-<<<<<<< HEAD
+* HEAD
 * Tel: +254707736866
-=======
+
 * Tel: +25407736866
->>>>>>> 3b2077770a01883e4206640146cb33e84b57de39
 * Email: dikkymccria@gmail.com
 
 ## link to github
 Run this link: Run this link: https://dicks6n.github.io/Quote/
->>>>>>> 3b2077770a01883e4206640146cb33e84b57de39
 
 ## license and copyright information
 
