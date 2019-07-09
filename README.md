@@ -51,7 +51,7 @@ To get more help on the Angular CLI use `ng help`
 * Email: dikkymccria@gmail.com
 
 ## link to github
-Run this link: Run this link: https://dicks6n.github.io/Quote/
+Run this link: Run this link: https://dicks6n.github.io/quote/
 
 ## license and copyright information
 
